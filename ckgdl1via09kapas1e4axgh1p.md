@@ -47,6 +47,7 @@ Under pay as per consumption model of FaaS, we only pay for the number of reques
 Also, some of the characteristics explained above are not applicable to certain plans of FaaS offerings. We shouldn't get too much into terminologies, instead properly examine our use case and choose what fits our needs.</p>
 <p>Have you created something with FaaS? How has your experience been? Do share your thoughts below.</p>
 <br />
+<p><a href="https://www.learningstuffwithankit.dev/making-sense-of-faas-by-learning-about-azure-functions-part-ii">Part II of this post has been published here!</a></p>
 <span>Cover image credits <a href="https://unsplash.com/@tvick?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Taylor Vick</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 <br />
 #### References:
