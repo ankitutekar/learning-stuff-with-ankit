@@ -1,6 +1,6 @@
 ## Implementing auto-complete functionality in Elasticsearch - Part II: n-grams
 
-This is part II of my series on implementing auto-completion feature using Elasticsearch. In [first part](https://www.learningstuffwithankit.dev/implementing-auto-complete-functionality-in-elasticsearch-part-i-prefix-queries) we talked about using prefix queries, a query time approach for auto-completions. In this post, we will talk about *n-grams* - an index time approach which generates additional tokens after basic tokenization so that we can have faster prefix matches later at query time. But before that, let's see what an n-gram is. As per Wikipedia -
+This is part II of [my series](https://www.learningstuffwithankit.dev/series/auto-complete-es) on implementing auto-completion feature using Elasticsearch. In [first part](https://www.learningstuffwithankit.dev/implementing-auto-complete-functionality-in-elasticsearch-part-i-prefix-queries) we talked about using prefix queries, a query time approach for auto-completions. In this post, we will talk about *n-grams* - an index time approach which generates additional tokens after basic tokenization so that we can have faster prefix matches later at query time. But before that, let's see what an n-gram is. As per Wikipedia -
 
 > an n-gram is a contiguous sequence of n items from a given sequence of text or speech
 
@@ -257,4 +257,4 @@ This is not the only way to query a *search_as_you_type* field, but certainly mo
 
 Like edge-n-gram, *search_as_you_type* overcomes the limitation of prefix query approach by storing data that is optimized for auto-completions. So in this approach too, we have to be careful about things we are storing using this field. Additional space is required for storing these n-grammed tokens.
 
-In part III, we will talk about completion suggesters, another index time approach which further speeds up queries by storing suggestions in-memory. Do let me know your feedback on this part in comments below.
+In [part III](https://www.learningstuffwithankit.dev/implementing-auto-complete-functionality-in-elasticsearch-part-iii-completion-suggester), we will talk about completion suggesters, another index time approach which further speeds up queries by storing suggestions in-memory. Do let me know your feedback on this part in comments below.
