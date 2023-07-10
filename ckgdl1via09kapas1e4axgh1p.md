@@ -1,4 +1,12 @@
-## Making sense of FaaS by learning about Azure Functions – Part I
+---
+title: "Making sense of FaaS by learning about Azure Functions – Part I"
+datePublished: Sat Oct 17 2020 11:13:38 GMT+0000 (Coordinated Universal Time)
+cuid: ckgdl1via09kapas1e4axgh1p
+slug: making-sense-of-faas-by-learning-about-azure-functions-part-i
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1602819672532/GerN_dV00.jpeg
+tags: cloud, azure, serverless, faas
+
+---
 
 <p>You must've seen the term <i>FaaS</i> or <i>Function as a Service</i> popping up on the internet every now and then. It has gained quite popularity recently. When I came across the term for the first time, I was puzzled. Function as a service? Do they write functions for us and we call them from our code? Is it like a paid library of utility functions having some secret code that only cloud providers can write? Well, after reading a few articles I came to know that I couldn't have been more wrong! I have been exploring this technology lately and been fascinated by how powerful it is.</p>
 <p>In this article, we will explore FaaS by learning about some of its characteristics that are different from our traditional ways of doing things in software development. I will be using Azure Functions as a point of reference for explaining a few things. In part II, we will dive into Azure Functions.</p>
