@@ -1,4 +1,13 @@
-## Lessons learnt from three years of professional software development
+---
+title: "Lessons learnt from three years of professional software development"
+datePublished: Sat Jul 18 2020 11:54:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckftr8lsf054lv6s13dx9gab2
+slug: lessons-learnt-from-three-years-of-professional-software-development
+canonical: https://dev.to/ankitutekar/lessons-learnt-from-three-years-of-professional-software-development-1md0
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1601734285318/8sesaDzLp.jpeg
+tags: software-development, learning, advice, beginners, career
+
+---
 
 So in the last week of July, I'll be completing three years of professional software development. It has been an amazing journey. Mistakes made, things learnt. If my three years younger self had a time machine to talk to his future self (i.e. my present self), it would've been quite a lecture. Below I have penned down the things I wish someone had told me when I started my professional software development journey, hoping that it helps someone who is starting their journey now-
 <ul>
