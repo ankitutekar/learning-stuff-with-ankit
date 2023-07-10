@@ -1,4 +1,12 @@
-## Implementing auto-complete functionality in Elasticsearch - Part I: Prefix queries
+---
+title: "Implementing auto-complete functionality in Elasticsearch - Part I: Prefix queries"
+datePublished: Sat Apr 17 2021 12:53:01 GMT+0000 (Coordinated Universal Time)
+cuid: cknlqqpi904cqlps1d42eezhe
+slug: implementing-auto-complete-functionality-in-elasticsearch-part-i-prefix-queries
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618062664835/YwMz5U0s0.jpeg
+tags: tutorial, search, elasticsearch
+
+---
 
 Being a software engineer, I tend to judge products and companies behind those products based on how efficiently they have implemented technically challenging things. One of the things on the internet that fascinates me is blazing fast auto-complete implementations! Especially those, which load things asynchronously, from a large data-set in the back-end.
 
