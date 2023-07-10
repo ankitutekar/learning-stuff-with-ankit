@@ -1,4 +1,12 @@
-## Making sense of FaaS by learning about Azure Functions – Part II
+---
+title: "Making sense of FaaS by learning about Azure Functions – Part II"
+datePublished: Sat Nov 28 2020 03:09:03 GMT+0000 (Coordinated Universal Time)
+cuid: cki148gxz027bzts19cnw8lge
+slug: making-sense-of-faas-by-learning-about-azure-functions-part-ii
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1606364810007/LQOz3Vf7E.jpeg
+tags: cloud, azure, serverless, faas
+
+---
 
 <p>I have been getting into Azure lately and out of myriad of available services, I chose Azure Functions to explore first. In [Part I](https://www.learningstuffwithankit.dev/making-sense-of-faas-by-learning-about-azure-functions-part-i), we learned about characteristics of <strong>Function As A Service</strong>. We also saw some features of Azure's <strong>Azure Functions</strong> offering as examples of those characteristics. In this post, we will dive into Azure Functions by learning about its key concepts and see some examples.</p>
 <p>I will be referencing code snippets from a small web-app that I have worked on while learning Azure Functions. It uses multiple serverless Azure solutions and is implemented in dotnetcore(C# language) and React. If you are not familiar with C#, no worries, I will try to explain C# specific syntactical parts in the examples below.</p>
