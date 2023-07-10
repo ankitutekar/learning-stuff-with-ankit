@@ -1,4 +1,12 @@
-## Implementing auto-complete functionality in Elasticsearch - Part II: n-grams
+---
+title: "Implementing auto-complete functionality in Elasticsearch - Part II: n-grams"
+datePublished: Sat Apr 17 2021 15:03:10 GMT+0000 (Coordinated Universal Time)
+cuid: cknlve3fk05dnlps19owx2t4i
+slug: implementing-auto-complete-functionality-in-elasticsearch-part-ii-n-grams
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618159193827/JQWWeZRhd.jpeg
+tags: tutorial, search, elasticsearch
+
+---
 
 This is part II of [my series](https://www.learningstuffwithankit.dev/series/auto-complete-es) on implementing auto-completion feature using Elasticsearch. In [first part](https://www.learningstuffwithankit.dev/implementing-auto-complete-functionality-in-elasticsearch-part-i-prefix-queries) we talked about using prefix queries, a query time approach for auto-completions. In this post, we will talk about *n-grams* - an index time approach which generates additional tokens after basic tokenization so that we can have faster prefix matches later at query time. But before that, let's see what an n-gram is. As per Wikipedia -
 
