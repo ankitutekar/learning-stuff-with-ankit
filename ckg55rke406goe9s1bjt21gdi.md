@@ -1,4 +1,13 @@
-## Understanding topological sort by cooking some Biryani
+---
+title: "Understanding topological sort by cooking some Biryani"
+datePublished: Sun Jun 21 2020 10:56:18 GMT+0000 (Coordinated Universal Time)
+cuid: ckg55rke406goe9s1bjt21gdi
+slug: understanding-topological-sort-by-cooking-some-biryani
+canonical: https://dev.to/ankitutekar/understanding-topological-sort-by-cooking-some-biryani-43c3
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1602423812515/oqJEOmEUJ.jpeg
+tags: algorithms, computer-science, data-structures, beginners
+
+---
 
 
 <p>Topological sort is an algorithm I wish I had programmed in my brain. So many tasks to do every day, with so much dependencies among them. It would've definitely improved my productivity without being dependent on any external tool.</p>
